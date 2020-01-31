@@ -1,0 +1,7 @@
+{
+    "buscadorRcea": {
+        "search": "Search",
+        "searching": "Searching",
+        "notFound": "The person with rcea {rcea} was not found"
+    }
+}
